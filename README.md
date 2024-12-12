@@ -10,3 +10,4 @@ This repository contains animation functions created using ManimGL library.
 - Python 3.11
 
 ![Running image](Images/Running_image02.jpg)
+![Running image](Images/Running_image01.jpg)
