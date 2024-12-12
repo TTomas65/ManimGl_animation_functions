@@ -7,4 +7,4 @@ This repository contains animation functions created using ManimGL library.
 
 ## Requirements
 - ManimGL
-- Python 3.x
+- Python 3.11
