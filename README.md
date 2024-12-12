@@ -8,3 +8,5 @@ This repository contains animation functions created using ManimGL library.
 ## Requirements
 - ManimGL
 - Python 3.11
+
+![Running image](Images/Running_image02.jpg)
